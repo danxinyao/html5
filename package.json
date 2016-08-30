@@ -9,20 +9,19 @@
     "url": "http://dinhe.net/~aredridel/"
   },
   "url": "http://dinhe.net/~aredridel/projects/js/html5/",
-  "repository":
-    {
-      "type": "git",
-      "url": "https://github.com/aredridel/html5"
-    },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aredridel/html5"
+  },
   "contributors": [
     {
       "name": "Arthur Taylor",
       "github": "codders"
     },
-	{
-	  "name": "DanyaPostfactum",
-	  "github": "DanyaPostfactum",
-	  "email": "danya.postfactum@gmail.com"
+    {
+      "name": "DanyaPostfactum",
+      "github": "DanyaPostfactum",
+      "email": "danya.postfactum@gmail.com"
     }
   ],
   "maintainers": [
@@ -38,7 +37,7 @@
     "html5-entities": "^1.0.0"
   },
   "optionalDependencies": {
-    "jsdom": "^0.11.0"
+    "jsdom": "^9.4.3"
   },
   "devDependencies": {
     "tape": "^1.0.4",
